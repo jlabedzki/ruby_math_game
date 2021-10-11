@@ -63,6 +63,12 @@ class Question
 
 end
 
+#Turn
+
+# class Turn < Question
+#   def initialize
+#   end
+# end
 
 
 
